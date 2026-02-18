@@ -1,1 +1,1 @@
-from person p1
+hello from person p1
